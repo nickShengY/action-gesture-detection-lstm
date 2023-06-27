@@ -23,7 +23,7 @@ Simply change the pip install line to:
 ```# Actions that we try to detect```  
 ```actions = np.array(['hello', 'no', 'iloveyou'])```
 
-You can adjust the # of train samples here:  
+You can adjust the # of training samples here:  
 ```# Thirty videos worth of data```  
 ```no_sequences = 30```  
 
