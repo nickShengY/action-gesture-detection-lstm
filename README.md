@@ -19,7 +19,7 @@ You need to have a camera connected to your machine and functioning correctly
 ```source myenv/bin/activate```
 
 ## Notice:
--I used a pip mirror in China since I am travelling, but you don't have to
+-I used a pip mirror in China since I am travelling, but you don't have to  
 Simply change the pip install line to:  
 ```!pip install tensorflow==2.8.1 tensorflow-gpu==2.8.1 opencv-python mediapipe scikit-learn matplotlib```   
 
