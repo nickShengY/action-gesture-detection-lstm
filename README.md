@@ -1,5 +1,7 @@
-# Detect Real-time hand gestures
-Using OpenCV, Tensorflow, and LSTM to detect hand gestures in real-time
+# Detect Real-time hand gestures  
+**Examples are in the directory and demonstrated in the python notebook!**  
+
+## **Using OpenCV, Tensorflow, and LSTM to detect hand gestures in real-time**
 
 ## Start:  
 
